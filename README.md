@@ -1,0 +1,2 @@
+# HassioSetup
+Hassio Setup documents
